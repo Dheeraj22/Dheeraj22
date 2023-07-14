@@ -5,7 +5,7 @@ I'm Dheeraj and I have 5+ years of experience in Embedded Systems in various are
 In my GitHub page, you will find interesting projects in areas like Embedded Systems, IoT, and Android App Development.
 
 #### Highlights
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dheeraj22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj22&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
 </div>
