@@ -6,8 +6,8 @@ In my GitHub page, you will find interesting projects in areas like **Embedded S
 
 #### Highlights
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dheeraj22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=333&title_color=777"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj22&layout=compact&langs_count=7&theme=dracula&title_color=777"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dheeraj22&show_icons=true&theme=default&include_all_commits=true&count_private=true&icon_color=333&title_color=6C4473"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj22&layout=compact&langs_count=7&theme=default&title_color=6C4473"/>
 </div>
 
 <br>
