@@ -1,6 +1,6 @@
 ### About me
 
-I'm Dheeraj and I have 5+ years of experience in Embedded Systems in various areas like **ARM Architecture, Digital/Analog Peripherals, Memory Interfacing, Bootloaders, Communication Protocols (I2C, UART, SPI, QSPI), IPC, RTOS, Graphics, and Security (ARM TrustZone, Cryptography, PKI, Secure Boot)**.
+I'm Dheeraj and I have 7+ years of experience in Embedded Systems in various areas like **ARM Architecture, Digital/Analog Peripherals, Memory Interfacing, Bootloaders, Communication Protocols (I2C, UART, SPI, QSPI), IPC, RTOS, Graphics, and Security (ARM TrustZone, Cryptography, PKI, Secure Boot)**.
 
 In my GitHub page, you will find interesting projects in areas like **Embedded Systems, IoT, and Android App Development**.
 
