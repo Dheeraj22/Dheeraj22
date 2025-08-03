@@ -22,9 +22,3 @@ On my GitHub, you'll find a variety of projects that reflect my interests in Emb
 <a href="https://www.instagram.com/dheeraj_kamath/" target="_blank"><img src="https://raw.githubusercontent.com/Dheeraj22/Dheeraj22/master/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/dheerajkamath/" target="_blank"><img src="https://raw.githubusercontent.com/Dheeraj22/Dheeraj22/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://www.youtube.com/channel/UCgnv52hqclx0fTopBi9llDQ" target="_blank"><img src="https://raw.githubusercontent.com/Dheeraj22/Dheeraj22/master/yt.png" alt="YouTube" width="30"></a>
-
-<br>
-<a href="https://twitter.com/dheerajkmth" target="_blank"><img src="https://raw.githubusercontent.com/Dheeraj22/Dheeraj22/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/dheeraj_kamath/" target="_blank"><img src="https://raw.githubusercontent.com/Dheeraj22/Dheeraj22/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/dheerajkamath/" target="_blank"><img src="https://raw.githubusercontent.com/Dheeraj22/Dheeraj22/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://www.youtube.com/channel/UCgnv52hqclx0fTopBi9llDQ" target="_blank"><img src="https://raw.githubusercontent.com/Dheeraj22/Dheeraj22/master/yt.png" alt="YouTube" width="30"></a>
