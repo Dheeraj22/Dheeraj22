@@ -5,9 +5,9 @@ I'm Dheeraj and I have 7+ years of experience in Embedded Systems in various are
 In my GitHub page, you will find interesting projects in areas like **Embedded Systems, IoT, and Android App Development**.
 
 #### Highlights
-![](https://raw.githubusercontent.com/Dheeraj22/main/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Dheeraj22/Dheeraj22/refs/heads/main/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/Dheeraj22/main/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Dheeraj22/Dheeraj22/refs/heads/main/generated/languages.svg#gh-light-mode-only)
 
 <br>
 <a href="https://twitter.com/dheerajkmth" target="_blank"><img src="https://raw.githubusercontent.com/Dheeraj22/Dheeraj22/master/tw.png" alt="Twitter" width="30"></a>
