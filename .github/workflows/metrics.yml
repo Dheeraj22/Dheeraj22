@@ -13,7 +13,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.30.0
         with:
           # This requires a Personal Access Token (PAT) with repo and user scope.
           # Create one here: https://github.com/settings/tokens/new
@@ -27,8 +27,6 @@ jobs:
           # Action options
           template: classic
           base: header, activity, community, repositories, metadata
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
@@ -36,5 +34,3 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_lines: yes
-          plugin_people: yes
-          plugin_people_types: followers, following
